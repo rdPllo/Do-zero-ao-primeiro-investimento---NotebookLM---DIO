@@ -1,80 +1,35 @@
-# Glossário 
+# Glossário (simples)
 
-> Regra: cada termo deve ter definição curta (1–2 linhas) e referência (página/trecho do NotebookLM).
-> Exemplo de referência: “F1, p. 12” ou “F4, seção X”.
-
----
-
-## F1 — Banco Central do Brasil (BCB) — Gestão de Finanças Pessoais (PDF)
-Fonte: https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
-
-- **Orçamento** — … — (F1, __)
-- **Receita** — … — (F1, __)
-- **Despesa fixa** — … — (F1, __)
-- **Despesa variável** — … — (F1, __)
-- **Superávit / Déficit** — … — (F1, __)
-- **Planejamento financeiro** — … — (F1, __)
-- **Metas financeiras** — … — (F1, __)
-- **Endividamento** — … — (F1, __)
-- **Juros** — … — (F1, __)
-- **Custo efetivo total (CET)** — … — (F1, __)
-- **Reserva de emergência** — … — (F1, __)
+Formato: **Termo** — definição curta — **Fonte: F#**
 
 ---
 
-## F2 — Portal do Investidor (gov.br) — Organize a sua vida financeira
-Fonte: https://www.gov.br/investidor/pt-br/investir/antes-de-investir/organize-a-sua-vida-financeira
+## F1 — BCB (Gestão de Finanças Pessoais)
+- **Orçamento** — planejamento das receitas e despesas para controlar o dinheiro — **Fonte: F1**
+- **Superávit** — quando sobra dinheiro no mês (receitas > despesas) — **Fonte: F1**
+- **Déficit** — quando falta dinheiro no mês (despesas > receitas) — **Fonte: F1**
+- **Endividamento** — uso recorrente de crédito/dívida para cobrir gastos — **Fonte: F1**
 
-- **Objetivo financeiro** — … — (F2, __)
-- **Perfil do investidor** — … — (F2, __)
-- **Prazo (curto/médio/longo)** — … — (F2, __)
-- **Liquidez** — … — (F2, __)
-- **Risco** — … — (F2, __)
-- **Diversificação** — … — (F2, __)
-- **Custos e taxas** — … — (F2, __)
+## F2 — Portal do Investidor (Antes de investir)
+- **Liquidez** — facilidade/velocidade de transformar o investimento em dinheiro — **Fonte: F2**
+- **Risco** — chance de resultado diferente do esperado (inclusive perdas) — **Fonte: F2**
+- **Diversificação** — distribuir investimentos para reduzir dependência de um só ativo — **Fonte: F2**
+- **Perfil do investidor** — nível de tolerância a risco e objetivos/prazo — **Fonte: F2**
 
----
+## F3 — Tesouro Direto (Regras e regulamento)
+- **Título público** — empréstimo ao governo com regras de remuneração e prazo — **Fonte: F3**
+- **Vencimento** — data em que o título chega ao fim e é pago — **Fonte: F3**
+- **Taxa de custódia** — custo para manter títulos custodiados na infraestrutura do TD — **Fonte: F3**
+- **Marcação a mercado** — variação do preço do título antes do vencimento — **Fonte: F3**
 
-## F3 — Tesouro Direto — Regras e regulamento
-Fonte: https://www.tesourodireto.com.br/sobre-o-tesouro/regras-e-regulamento
+## F4 — CVM (Caderno Fundos)
+- **Fundo de investimento** — condomínio de investidores com estratégia definida — **Fonte: F4**
+- **Cota** — “fatia” do fundo que representa sua participação — **Fonte: F4**
+- **Taxa de administração** — custo cobrado pela gestão/estrutura do fundo — **Fonte: F4**
+- **Gestor** — responsável por decidir onde o fundo investe — **Fonte: F4**
 
-- **Tesouro Direto** — … — (F3, __)
-- **Título público** — … — (F3, __)
-- **Taxa de custódia** — … — (F3, __)
-- **Taxa da corretora** — … — (F3, __)
-- **Liquidação** — … — (F3, __)
-- **Vencimento** — … — (F3, __)
-- **Marcação a mercado** — … — (F3, __)
-- **Preço unitário** — … — (F3, __)
-
----
-
-## F4 — CVM (PDF) — Caderno: Fundos de Investimento
-Fonte: https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-03-3ed.pdf
-
-- **Fundo de investimento** — … — (F4, __)
-- **Cota** — … — (F4, __)
-- **Cotista** — … — (F4, __)
-- **Administrador** — … — (F4, __)
-- **Gestor** — … — (F4, __)
-- **Custodiante** — … — (F4, __)
-- **Taxa de administração** — … — (F4, __)
-- **Taxa de performance** — … — (F4, __)
-- **Política de investimento** — … — (F4, __)
-- **Risco do fundo** — … — (F4, __)
-- **Lâmina do fundo** — … — (F4, __)
-
----
-
-## F5 — B3/BSM (PDF) — Cartilha do Investidor
-Fonte: https://www.b3.com.br/data/files/30/23/29/45/F5B738101E311E28AC094EA8/bsm-cartilha-do-investidor-2022.pdf
-
-- **Corretora / Intermediário** — … — (F5, __)
-- **Home broker** — … — (F5, __)
-- **Ordem (compra/venda)** — … — (F5, __)
-- **Liquidação (operações)** — … — (F5, __)
-- **Custódia** — … — (F5, __)
-- **Suitability** — … — (F5, __)
-- **Boas práticas e segurança** — … — (F5, __)
-- **Golpes e fraudes** — … — (F5, __)
-- **Reclamações e canais** — … — (F5, __)
+## F5 — B3/BSM (Cartilha do Investidor)
+- **Corretora** — instituição intermediária que executa suas ordens — **Fonte: F5**
+- **Ordem** — instrução de compra/venda enviada ao mercado — **Fonte: F5**
+- **Custódia** — registro/guarda dos ativos em seu nome — **Fonte: F5**
+- **Suitability** — avaliação de adequação do produto ao perfil do investidor — **Fonte: F5**

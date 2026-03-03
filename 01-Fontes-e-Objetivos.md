@@ -5,7 +5,7 @@ Do zero ao primeiro investimento: orçamento, reserva, riscos e produtos básico
 
 ---
 
-## Fontes (3–5) inseridas no NotebookLM
+## Fontes inseridas no NotebookLM
 > Cole os links exatos (texto/PDF).
 
 - **F1 — BCB (PDF):** Gestão de Finanças Pessoais  

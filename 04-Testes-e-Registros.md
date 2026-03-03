@@ -25,9 +25,12 @@ Como usar:
 ---
 
 ## Teste 01
-**Pergunta (estratégica): Como montar uma reserva de emergência e onde deixar esse dinheiro?  
+**Pergunta (estratégica):** Como montar uma reserva de emergência e onde deixar esse dinheiro?  
+
 **Prompt usado:** Como montar uma reserva de emergência e onde deixar esse dinheiro?
-**Resposta (NotebookLM):**  A montagem de uma reserva de emergência é o passo fundamental para garantir tranquilidade financeira e proteção contra imprevistos, como doenças, acidentes ou perda de emprego. Para construí-la e decidir onde alocar os recursos, as fontes recomendam o seguinte processo:
+
+**Resposta (NotebookLM):**  
+A montagem de uma reserva de emergência é o passo fundamental para garantir tranquilidade financeira e proteção contra imprevistos, como doenças, acidentes ou perda de emprego. Para construí-la e decidir onde alocar os recursos, as fontes recomendam o seguinte processo:
 Como montar sua reserva
 Diagnóstico e Orçamento: O primeiro passo é elaborar um Balanço Patrimonial Pessoal (BPF), listando tudo o que você possui (ativos) e o que deve (passivos). Em seguida, utilize um orçamento doméstico para garantir que sua vida financeira seja superavitária (receitas maiores que despesas).
 Pagar-se Primeiro: Não espere o fim do mês para poupar. A regra de ouro é separar uma parte da sua renda para a reserva assim que recebê-la, tratando a poupança como um compromisso prioritário.
@@ -51,9 +54,12 @@ Gostaria que eu criasse um plano de ação detalhado com exercícios práticos p
 ---
 
 ## Teste 02
-**Pergunta (estratégica): Como montar uma reserva de emergência e onde deixar esse dinheiro?  
+**Pergunta (estratégica):** Como montar uma reserva de emergência e onde deixar esse dinheiro?  
+
 **Prompt usado:**  Responda como montar uma reserva de emergência e onde deixar esse dinheiro, apenas com base nas fontes do caderno. Estruture em: Definição → Passos práticos → Erros comuns. Em cada tópico, inclua a citação da fonte.
-**Resposta (NotebookLM):**  Com base nos documentos fornecidos, a montagem de uma reserva de emergência e a escolha de onde alocá-la devem seguir as seguintes diretrizes:
+
+**Resposta (NotebookLM):**  
+Com base nos documentos fornecidos, a montagem de uma reserva de emergência e a escolha de onde alocá-la devem seguir as seguintes diretrizes:
 Definição
 A reserva de emergência é uma poupança financeira separada destinada a lidar com circunstâncias não esperadas ou imprevistos. Ela funciona como uma medida de proteção para reduzir riscos em eventos inesperados (como doenças, acidentes ou perda de emprego), evitando que o equilíbrio econômico-financeiro do cidadão seja perturbado. Diferente de investimentos para sonhos, seu objetivo principal é a precaução e a segurança.
 Passos Práticos
